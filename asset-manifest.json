@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactCoins/static/css/main.e6c13ad2.css",
+    "main.js": "/reactCoins/static/js/main.ad99cb9c.js",
+    "static/media/lightMode.svg": "/reactCoins/static/media/lightMode.ed7c0da31baf31dc536f725ba3092948.svg",
+    "static/media/darkMode.svg": "/reactCoins/static/media/darkMode.e6f62544d5510dd665d40ed097d1f698.svg",
+    "index.html": "/reactCoins/index.html",
+    "main.e6c13ad2.css.map": "/reactCoins/static/css/main.e6c13ad2.css.map",
+    "main.ad99cb9c.js.map": "/reactCoins/static/js/main.ad99cb9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad99cb9c.js"
+  ]
+}
